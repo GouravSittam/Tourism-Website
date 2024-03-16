@@ -1,0 +1,24 @@
+{
+  "name": "tourism-website",
+  "version": "1.0.0",
+  "description": "Design user-friendly site with compelling content, booking system, interactive maps, reviews, SEO, accessibility, and continuous improvement for successful tourism website.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gourav Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GouravSittam/Tourism-Website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GouravSittam/Tourism-Website/issues"
+  },
+  "homepage": "https://github.com/GouravSittam/Tourism-Website#readme"
+}
