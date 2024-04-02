@@ -1,0 +1,12 @@
+/* styles.css */
+.navbar-brand {
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .nav-link:hover {
+    transform: scale(1.1);
+  }
